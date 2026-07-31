@@ -186,8 +186,22 @@ Contributions are welcome! Feel free to fork the repository, improve examples, a
 
 ---
 
-## ⭐ Support
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-If this repository helped you, consider giving it a **Star ⭐** and sharing it with others.
+⭐ If this repository helped you,
+
+please consider giving it a Star.
+
+Made with ❤️ by Raunak Kumar
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<div align="center">
+
+### ⭐ Happy Coding ❤️
+
+Made with JavaScript ☕ and lots of curiosity.
+
+</div>
 
 > **Inspired by Challenges. Motivated by Solutions.**
